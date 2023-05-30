@@ -1,0 +1,40 @@
+name: '📖 Documentation issue'
+description: Have you found a mistake in the Kinde documentation, or have a suggestion to improve them? Let us know here.
+title: 'Documentation issue: (fill in)'
+labels: [documentation]
+
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time to report a [Kinde documentation](https://kinde.com/docs) issue 👍🏼.
+
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: To save time and prevent duplicating work, please complete the following.
+      options:
+        - label: I have searched the repository’s issues and the [Kinde community](https://thekindecommunity.slack.com/archives/C057M2BQ6LV) to ensure my documentation issue isn’t a duplicate
+          required: true
+        - label: I have read the [contributing guidelines]()
+          required: true
+        - label: I agree to the terms in the [code of conduct]()
+          required: true
+
+  - type: textarea
+    attributes:
+      label: How can we improve the docs or what is missing?
+      description: For example, are some components not listed or did you want more examples.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Provide extra context, such as what you were trying to do and your requirements
+      description: This will help us understand how we can best update the docs.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: If the docs page already exists, please provide a link
+      description: E.g. “https://kinde.com/docs/connect-to-kinde/first-things-first/”.
