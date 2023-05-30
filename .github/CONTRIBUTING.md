@@ -57,7 +57,7 @@ Please take a moment to read over this document to make the contribution process
 
 Kinde takes its OS community seriously and holds both itself and other contributors to high standards of communication. Kinde’s goal is to foster a positive environment for contributors and to welcome newcomers.
 
-Please review the [code of conduct](CODE_OF_CONDUCT.md) before engaging in Kinde’s OS projects.
+Please review the [code of conduct](https://github.com/kinde-starter-kits/.github/blob/ff8d5c462e56772810bca53f750fd3610a00d673/.github/CODE_OF_CONDUCT.md) before engaging in Kinde’s OS projects.
 
 ## Getting started
 

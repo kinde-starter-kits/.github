@@ -15,9 +15,9 @@ body:
       options:
         - label: I have searched the repository’s issues and the [Kinde community](https://thekindecommunity.slack.com/archives/C057M2BQ6LV) to ensure my documentation issue isn’t a duplicate
           required: true
-        - label: I have read the [contributing guidelines]()
+        - label: I have read the [contributing guidelines](https://github.com/kinde-starter-kits/.github/blob/ff8d5c462e56772810bca53f750fd3610a00d673/.github/CONTRIBUTING.md)
           required: true
-        - label: I agree to the terms in the [code of conduct]()
+        - label: I agree to the terms in the [code of conduct](https://github.com/kinde-starter-kits/.github/blob/ff8d5c462e56772810bca53f750fd3610a00d673/.github/CODE_OF_CONDUCT.md)
           required: true
 
   - type: textarea

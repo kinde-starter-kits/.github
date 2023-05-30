@@ -12,4 +12,4 @@ All you need to do is:
 
 Additional instructions exist in the repository’s README, plus the [Kinde documentation](https://kinde.com/docs).
 
-For contributing guidelines, see the CONTRIBUTING.md doc.
+For contributing guidelines, see the [CONTRIBUTING.md](https://github.com/kinde-starter-kits/.github/blob/ff8d5c462e56772810bca53f750fd3610a00d673/.github/CONTRIBUTING.md) doc.
