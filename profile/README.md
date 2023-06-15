@@ -2,7 +2,7 @@
 
 Here you’ll find starter kits for a bunch of different technology stacks to work with the Kinde ecosystem.
 
-If you’re a founder with a new idea and want to get up and going quickly, this is a great place to start. Conversely, if you already have a project underway, consider using one of the [Kinde SDKs](https://github.com/kinde-starter-kits).
+If you’re a founder with a new idea and want to get up and going quickly, this is a great place to start. Conversely, if you already have a project underway, consider using one of the [Kinde SDKs](https://github.com/kinde-oss).
 
 All you need to do is:
 
